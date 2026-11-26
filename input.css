@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@theme {
+  --color-brightRed: hsl(12, 88%, 59%);
+  --color-brightRedLight: hsl(12, 88%, 69%);
+  --color-darkGray: hsl(227, 12%, 61%);
+}
